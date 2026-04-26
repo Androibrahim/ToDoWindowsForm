@@ -7,6 +7,8 @@ namespace ToDo
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        /// 
+        // and new comment 
         [STAThread]
         static void Main()
         {
